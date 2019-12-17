@@ -1,6 +1,8 @@
 # creatable_sparkstick
 OSHW designs for the Spark Stick ATTiny85 development board.
 
+![Spark Stick v1.0](https://raw.githubusercontent.com/nakatomi/creatable_sparkstick/master/Spark%20Stick%20v1.0.png)
+
 ## Software
 See https://github.com/nakatomi/creatable_srl
 
